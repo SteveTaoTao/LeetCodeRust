@@ -11,3 +11,6 @@
     enumerate()
 
 ![Solution1_png](Solution1.png)
+
+    I think the solution1 is too rudely, and use HashMap is expensive .
+    Maybe slices can replace that.
