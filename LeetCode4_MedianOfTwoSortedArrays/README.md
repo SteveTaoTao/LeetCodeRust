@@ -10,3 +10,8 @@
     1. two sorted arrays
     2.run time complexity should be O(log(m+n)).
     That means you cant cycle through those arrays
+    Put two arrays into a array, and sort them.
+    find the median index of the array.
+    and couculate the median value .
+
+![solution](solution1.png)
