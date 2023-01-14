@@ -5,7 +5,6 @@ impl Solution {
         let mut b = nums2.clone();
         a.append(&mut b);
         a.sort();
-        print!("a = {:?} \n", a);
         if a.len() % 2 != 0 {
             a[a.len() / 2] as f64
         } else {
